@@ -1,0 +1,6 @@
+For sigma=2.3
+
+CPU time :: 2110.34 ms
+Tex+const :: 4.287 ms
+global+const :: 4.625 ms
+shared+const :: 38.993 ms 
